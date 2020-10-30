@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IKChatApp</string>
+    <string name="title_activity_room">Room</string>
+    <string name="title_activity_user_list">UserList</string>
+</resources>
